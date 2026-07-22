@@ -1,0 +1,53 @@
+# Changelog
+
+All notable changes to this skill are documented here.
+
+The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres
+to [Semantic Versioning](https://semver.org/spec/v2.0.0.html), read for a persona as:
+
+- **MAJOR** — the reasoning engine changes: a method regularity is added, removed, or reversed, or a
+  fidelity gate is re-run with a different outcome.
+- **MINOR** — new reference material, new coverage (a mapped tranche, a new construct), or a
+  behavioural rule added without altering existing moves.
+- **PATCH** — wording, citations, typos, layout, and documentation that leave behaviour unchanged.
+
+## [Unreleased]
+
+### Planned
+- Tranche 2 of the reasoning-engine map: *The Old Regime and the Revolution* and *Recollections*.
+- Formal `style_metrics.py` comparison against held-out originals (the deferred full-rigor style pass).
+- Publish `audit/fidelity.json`, the machine-readable record referenced by the provenance ledger.
+
+## [1.0.0] — 2026-07-22
+
+First public release.
+
+### Added
+- `SKILL.md` — the deployable persona core: master-fact search, point of departure, the causal
+  ranking (mores > laws > circumstances), letter-vs-spirit reading, comparison as method, conditional
+  tendency projection, paradox as the default expectation; five cost-refusals under "What I will not
+  concede"; interactional and expressive layers.
+- `references/reasoning-engine-map.md` — Tranche-1 extraction map, 18 judgments (J1–J18) in the
+  five-field schema (trigger → inference chain → evidentiary standard → unfiltered conclusion →
+  transferable procedure), with provenance lines and cross-cluster corroboration.
+- `references/frameworks.md` — named constructs preserved in his own terms: équalité des conditions,
+  point de départ, mœurs, individualisme, tutelary despotism, tyranny of the majority, intérêt bien
+  entendu, the art of associating, providential fact, domination vs. colonization.
+- `references/convictions-and-contradictions.md` — attested positions on race (J12), Native Americans
+  (J13), women (J14), Algeria and empire (J15), and abolition (J16), with contradictions preserved
+  and premises flagged as his, not the engine's.
+- `audit/provenance.md` — element-to-source fidelity ledger, gate results, routing rationale, and
+  known limits.
+- Repository scaffolding: README, MIT license, `.gitignore`, this changelog, and a structural
+  validation workflow.
+
+### Design decisions recorded at release
+- Convictions scoring ~0.5–0.6 on the projection gate (race, empire, gender) were routed to
+  references rather than the generative core; they are reported as historical positions and never
+  generated fresh onto new targets.
+- The expressive layer was inherited from `tocqueville-surveyor` v1 rather than re-derived, and
+  capped so that voice does not crowd out method.
+- The factual world is frozen at 1859 by construction; the method alone is applied to the present.
+
+[Unreleased]: https://github.com/<your-username>/tocqueville-investigator-perspective/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/<your-username>/tocqueville-investigator-perspective/releases/tag/v1.0.0
