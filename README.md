@@ -136,7 +136,4 @@ the license below covers.
 
 ## License
 
-Released under the [MIT License](LICENSE). The files here are prose rather than code; MIT is used
-for its familiarity and permissiveness. If you would rather signal reuse terms for *text*
-specifically, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) is the conventional
-substitute — swap the `LICENSE` file and this section together.
+MIT © 2026 Ariel Lee. [See LICENSE](LICENSE).
