@@ -33,6 +33,7 @@ Three design commitments, all auditable:
 
 ```
 .
+├── README.md
 ├── SKILL.md                                  # the deployable persona core (loaded first)
 ├── references/
 │   ├── reasoning-engine-map.md               # 18 judgments, full inference chains (J1–J18)
@@ -42,6 +43,7 @@ Three design commitments, all auditable:
 │   └── provenance.md                         # element → source → fidelity ledger; known limits
 ├── CHANGELOG.md
 ├── LICENSE
+├── NOTICE.md                                 # originality and source-attribution statement
 └── .github/workflows/validate-skill.yml      # structural CI check (optional)
 ```
 

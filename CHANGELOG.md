@@ -13,6 +13,13 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html), read for a person
 
 ## [Unreleased]
 
+### Fixed
+- Repository layout now matches the one documented in `README.md` and already referenced by
+  `SKILL.md`. The reference files, the provenance ledger, and the CI workflow sat loose at the
+  repository root, so every `references/…` load path in `SKILL.md` and the `audit/provenance.md`
+  link in `README.md` pointed at files that did not exist. Moved into `references/`, `audit/`,
+  and `.github/workflows/` respectively; no file contents changed.
+
 ### Planned
 - Tranche 2 of the reasoning-engine map: *The Old Regime and the Revolution* and *Recollections*.
 - Formal `style_metrics.py` comparison against held-out originals (the deferred full-rigor style pass).
