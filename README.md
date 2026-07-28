@@ -58,11 +58,11 @@ invoke the skill. The `references/` files load progressively — only when the q
 
 ```bash
 # personal — available in every project
-git clone https://github.com/<your-username>/tocqueville-investigator-perspective.git \
+git clone https://github.com/ariel-lee-1023/tocqueville-investigator.git \
   ~/.claude/skills/tocqueville-investigator-perspective
 
 # or project-scoped, committed alongside your repo
-git clone https://github.com/<your-username>/tocqueville-investigator-perspective.git \
+git clone https://github.com/ariel-lee-1023/tocqueville-investigator.git \
   .claude/skills/tocqueville-investigator-perspective
 ```
 

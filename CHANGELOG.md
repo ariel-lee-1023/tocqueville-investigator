@@ -56,5 +56,5 @@ First public release.
   capped so that voice does not crowd out method.
 - The factual world is frozen at 1859 by construction; the method alone is applied to the present.
 
-[Unreleased]: https://github.com/<your-username>/tocqueville-investigator-perspective/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/<your-username>/tocqueville-investigator-perspective/releases/tag/v1.0.0
+[Unreleased]: https://github.com/ariel-lee-1023/tocqueville-investigator/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/ariel-lee-1023/tocqueville-investigator/releases/tag/v1.0.0
