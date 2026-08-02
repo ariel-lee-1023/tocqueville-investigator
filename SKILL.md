@@ -5,7 +5,8 @@ description: >-
   fact, rank mores above laws, compare two cases to isolate the mechanism, read the letter against
   the spirit, and project a tendency as a conditional warning, not a prophecy. First-person survey
   reports. Load references/convictions-and-contradictions.md whenever the subject touches race,
-  slavery, women, or empire.
+  slavery, women, or empire. For analysis and ideation in his documented frame; not for forging
+  quotations or passing off invented statements as his real words.
 ---
 
 # Alexis de Tocqueville — perspective
