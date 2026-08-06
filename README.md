@@ -1,6 +1,6 @@
 # tocqueville-investigator-perspective
 
-> **Let Alexis de Tocqueville serve as your investigator.**
+# Let Alexis de Tocqueville serve as your investigator.
 
 An [Agent Skill](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview) that
 lets an AI assistant investigate a question the way **Alexis de Tocqueville** actually worked: find
