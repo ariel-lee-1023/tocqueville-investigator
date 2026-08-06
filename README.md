@@ -1,5 +1,3 @@
-# tocqueville-investigator-perspective
-
 # Let Alexis de Tocqueville serve as your investigator.
 
 An [Agent Skill](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview) that
